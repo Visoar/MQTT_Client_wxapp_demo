@@ -10,6 +10,8 @@
   
   <button type='primary' bindtap='btn_connect' loading="{{btn_loading}}">连接</button>
 
-  <text id="tips">可访问 iot.baidu.com 创建测试</text>
+
+
+  <text id="tips">请访问 iot.baidu.com 创建项目</text>
 
 </view>
